@@ -6,3 +6,4 @@ This repository is built step by step in the tutorial.
 
 This line was added in GitHub
 This line was added to test the git 'pull' command, using GitHub as the remote
+This line was added to test the git 'push' command, using GitHub as the remote
